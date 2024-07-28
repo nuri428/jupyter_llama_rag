@@ -6,3 +6,6 @@ llama이용한 rag 예제 코드들
 디렉토리 
 
 tei_serving : text embedding inference 예제 
+
+rag_testing : rag 예제들 테스트 코드들
+
