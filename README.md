@@ -9,3 +9,7 @@ tei_serving : text embedding inference 예제
 
 rag_testing : rag 예제들 테스트 코드들
 
+loader : langchain을 이용한 데이터 로드 코더 
+
+newsQA : 뉴스 수집기를 통해 QA를 하는 예제. 
+
